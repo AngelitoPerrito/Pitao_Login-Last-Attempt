@@ -8,7 +8,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background: url("images/1.jpg");
+    background: url("file:///C:/Users/jervis.pitao/Downloads/splatoon3-pattern-05-3840x2160-1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -33,7 +33,7 @@ body{
     z-index: 100;
 }
 .nav-logo p{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 25px;
     font-weight: 600;
 }
@@ -51,7 +51,7 @@ body{
     margin: 0 25px;
 }
 .link:hover, .active{
-    border-bottom: 2px solid #000000;
+    border-bottom: 2px solid #fffb19;
 }
 .nav-button .btn{
     width: 130px;
@@ -70,7 +70,7 @@ body{
     margin-left: 15px;
 }
 .btn.white-btn{
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 251, 0, 0.7);
 }
 .btn.btn.white-btn:hover{
     background: rgba(255, 255, 255, 0.5);
